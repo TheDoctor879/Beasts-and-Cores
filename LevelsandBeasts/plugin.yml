@@ -1,0 +1,6 @@
+name: Beasts
+main: net.valdaycraft.dnd.Core
+version: 1.0.0 [Beta]
+commands:
+   traits:
+      description: Main trait command.
